@@ -16,4 +16,4 @@ When you've finished the exercise in GitHub, return here for:
 - A summary of what you've learned.
 - A badge for completing this module.
 
-[Launch Exercise button ](../media/launch-exercise.png)](https://github.com/skills/expand-your-team-with-copilot/)
+[![Launch Exercise button ](../media/launch-exercise.png)](https://github.com/skills/expand-your-team-with-copilot/)
