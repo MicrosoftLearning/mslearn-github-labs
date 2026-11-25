@@ -24,3 +24,4 @@ Use the **Username** and **TAP** credentials (Microsoft Account) as provided on 
 
 Once authenticated with the GitHub Enterprise SSO credentials, select the **Launch Exercise Inside VM** button to start the actual lab exercise
 
+[![Button to launch exercise.](../media/launch-exercise.png)](https://github.com/skills/expand-your-team-with-copilot/)
