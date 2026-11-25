@@ -7,12 +7,20 @@ In this exercise, you'll:
 
 ## Getting started
 
-When you select the Launch Exercise button link below, you'll be navigated to a public GitHub Skills template repository that prompts you to complete a series of small challenges.
+- Make sure you authenticate using the lab provided Enterprise account credentials
+- Make sure you set **"Skillable Events"** as **Owner** when creating new lab repos 
+- After selecting the Launch Exercise inside VM, Edge browser will open inside the LabVM, redirecting you to the GitHub Skills lab scenario repo. Follow the instructions as presented inside the lab scenario repo itself.
 
-When you've finished the exercise in GitHub, return here for:
+# Step 1: GitHub Authentication
 
-- A quick knowledge check.
-- A summary of what you've learned.
-- A badge for completing this module.
+Use the following URL to authenticate to GitHub Enterprise using the lab specific GitHub Login Information, **before** selecting the Launch Exercise button.
+
+**Sign-in URL:** [https://github.com/enterprises/Skillable-Events/sso](https://github.com/enterprises/Skillable-Events/sso)
+
+Use the **Username** and **TAP** credentials (Microsoft Account) as provided on the **Resources** tab to authenticate. Do not use your personal or corporate GitHub credentials. 
+
+# Step 2: Launch Exercise
+
+Once authenticated with the GitHub Enterprise SSO credentials, select the **Launch Exercise Inside VM** button to start the actual lab exercise
 
 [![Button to launch exercise.](../media/launch-exercise.png)](https://learn.microsoft.com/en-us/training/modules/mcp-server/5-exercise-integrate-github-copilot)

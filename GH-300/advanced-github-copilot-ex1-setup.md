@@ -7,10 +7,20 @@ In this exercise, you'll:
 
 ## Getting started
 
-When you select the Launch Exercise button link below, you'll be taken to the Codespace creation page for the Python web API template.
+- Make sure you authenticate using the lab provided Enterprise account credentials
+- Make sure you set **"Skillable Events"** as **Owner** when creating new lab repos 
+- After selecting the Launch Exercise inside VM, Edge browser will open inside the LabVM, redirecting you to the GitHub Skills lab scenario repo. Follow the instructions as presented inside the lab scenario repo itself.
 
-Review the configuration settings, then select **Create new codespace**. Startup can take a few minutes while the development container installs the required packages and extensions.
+# Step 1: GitHub Authentication
 
-Once setup is complete, the application starts automatically with `uvicorn`. Check the terminal output and the **Ports** tab to confirm that the server is running on port 8000. Use this development container for the remaining exercises in the project.
+Use the following URL to authenticate to GitHub Enterprise using the lab specific GitHub Login Information, **before** selecting the Launch Exercise button.
+
+**Sign-in URL:** [https://github.com/enterprises/Skillable-Events/sso](https://github.com/enterprises/Skillable-Events/sso)
+
+Use the **Username** and **TAP** credentials (Microsoft Account) as provided on the **Resources** tab to authenticate. Do not use your personal or corporate GitHub credentials. 
+
+# Step 2: Launch Exercise
+
+Once authenticated with the GitHub Enterprise SSO credentials, select the **Launch Exercise Inside VM** button to start the actual lab exercise
 
 [![Button to launch exercise.](../media/launch-exercise.png)](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/3-exercise-setup)
